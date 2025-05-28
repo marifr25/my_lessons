@@ -1,5 +1,4 @@
 # my_lessons
-Repo ini adalah learning journey saya di bidang data science.
 Disini saya menaruh rangkuman dan catatan saya dari berbagai materi.
 
 Sources: <br/>
